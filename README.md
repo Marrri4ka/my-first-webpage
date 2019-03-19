@@ -8,7 +8,7 @@
 
 ## Description
 
-_This webpage provides information about my favourite people and favourite ice-cream flavors. _
+This webpage provides information about my favourite people and favourite ice-cream flavors. 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
@@ -18,7 +18,7 @@ _This webpage provides information about my favourite people and favourite ice-c
 
 ## Known Bugs
 
-_When clicking on picture of Christopher it shows unexisting page _
+When clicking on picture of Christopher it shows unexisting page.
 
 ## Support and contact details
 
